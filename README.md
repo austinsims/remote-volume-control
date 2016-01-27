@@ -13,9 +13,13 @@ Windows server
 ![Windows server](http://i.imgur.com/5BjaXJp.png)
 
 ## HOWTO
-1. Requirements: Visual Studio 2015, Android SDK, Android Studio (or just Gradle I guess)
-2. Open the Visual Studio solution, build and start it... it listens on port 8001
-3. Same with the Android project. Build and deploy it to your phone
-4. Connect to WiFi
-5. Type in your PC's IP address
+
+Requirements: Visual Studio 2015, Android SDK, Android Studio (or just Gradle I guess)
+
+1. Open the Visual Studio solution, build and start it... it listens on port 8001
+2. Same with the Android project. Build and deploy it to your phone
+3. Connect to WiFi
+4. Type in your PC's IP address
+5. Press the buttons
+
 Enjoy super simple remote volume control!
