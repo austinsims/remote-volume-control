@@ -6,7 +6,7 @@ Simplest possible application to control Windows PC volume from an Android phone
 
 Android client
 
-![Android client](http://i.imgur.com/IAPGuSk.png)
+![Android client](http://i.imgur.com/IAPGuSk.png?1)
 
 Windows server
 
