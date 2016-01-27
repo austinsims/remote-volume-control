@@ -95,7 +95,7 @@ public class MainActivity extends AppCompatActivity {
     private void toast(Exception ex) {
         String exName = ex.getClass().getName();
         String exMessage = ex.getMessage();
-        String toastMessage = exName + exMessage == null ? "" : ": " + exMessage;
+        String toastMessage = exName + (exMessage == null ? "" : ": " + exMessage);
 
         Context context = getApplicationContext();
         Toast toast = Toast.makeText(context, toastMessage, Toast.LENGTH_LONG);
